@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-01-24 20:58"><shop>
+   <name>tamayshop</name>
+   <company>ааа</company>
+   <url>http://tamay.com.ua</url>
+   <platform>Tilda Publishing</platform>
+   <version>1.0</version>
+   <currencies>
+      <currency id="UAH" rate="1"/>
+   </currencies>
+   <categories>
+      <category id="733734456838">denkmit</category>
+      <category id="737632626289">stirka_glazhka</category>
+      <category id="939820510126">gel_stirka</category>
+      <category id="607906336673">All</category>
+      <category id="263849847291">sredstva_dlya_kuhni</category>
+      <category id="483551361727">sredstva_dlya_uborki_doma</category>
+   </categories>
+  <offers>
+      <offer id="169850029224">
+          <name>Стиральный порошок Denkmit 2,7 кг для цветных вещей</name>
+          <url>http://tamay.com.ua/tproduct/155009634-169850029224-stiralnii-poroshok-denkmit-27-kg-dlya-ts</url>
+          <model>1234567890</model>
+          <price>199.00</price>
+          <oldprice>250.00</oldprice>
+          <currencyId>UAH</currencyId>
+          <categoryId>607906336673</categoryId>
+          <picture>https://static.tildacdn.com/tild3436-6338-4562-a361-346635346166/poroshok_2-7_dlya_cv.jpg</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Стиральный порошок для цветных вещей Denkmit Colorwaschmittel mit Aktiv-Schutz с активной защитой цвета.<br /><br /> <ul> <li> Концентрированный стиральный порошок.<br /> </li> <li> Формула "Анти-пятна" - эффективно удаляет сложные пятна какао, молока, соусов, яиц, крови и пота.<br /> </li> <li> Порошок дерматологически протестирован, гигиенический и гипоаллергенный.<br /> </li> <li> Температурный режим от 20 до 60 градусов<br /> </li> <li> Бесфосфатный </li></ul>
+]]>
+          </description>
+      </offer>
+      <offer id="264546754231">
+          <name>Стиральный порошок Denkmit 2,7 кг для белых вещей</name>
+          <url>http://tamay.com.ua/tproduct/155009634-264546754231-stiralnii-poroshok-denkmit-27-kg-dlya-be</url>
+          <model>4010355484062</model>
+          <price>199.00</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>607906336673</categoryId>
+          <picture>https://static.tildacdn.com/tild6334-3365-4266-b630-373861373361/poroshok_2-7_dlya_be.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Стиральный порошок Denkmit для белого и сильно загрязненного белья. <br /><br /> <ul> <li> В состав входит моющее средство с высоко концентрированной формулой, что позволяет использовать экономно. <br /><br /> </li> <li> Формула "Анти-пятна" - отстирывает даже при низких температурах белое и сильно загрязненное белье. <br /><br /> </li> <li> Подходит как для ручной, так и для машинной стрирки. <br /><br /> </li> <li> Температурный режим от 20 до 95 градусов <br /><br /> </li> <li> Бесфосфатный <br />штрих код: 4010355484062</li></ul>
+]]>
+          </description>
+      </offer>
+      <offer id="804479504593">
+          <name>Стиральный порошок Denkmit Colorwaschmittel mit Aktiv-Schutz 1,35 кг для цветных вещей</name>
+          <url>http://tamay.com.ua/tproduct/155009634-804479504593-stiralnii-poroshok-denkmit-colorwaschmit</url>
+          <model>1234512345123</model>
+          <price>120.00</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>607906336673</categoryId>
+          <picture>https://static.tildacdn.com/tild3432-6361-4433-b530-343665653363/Denkmit_Colorwaschmi.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Стиральный порошок для цветных вещей DenkmitColorwaschmittel mit Aktiv-Schutz с активной защитой цвета. <br /><br /> <ul> <li> Концентрированный стиральный порошок. <br /><br /> </li> <li> Формула "Анти-пятна" - эффективно удаляет сложные пятна какао, молока, соусов, яиц, крови и пота. <br /><br /> </li> <li> Порошок дерматологически протестирован, гигиенический и гиппоаллергенный. <br /><br /> </li> <li> Температурный режим от 20 до 60 градусов <br /><br /> </li> <li> Бесфосфатный <br /><br /> </li></ul>
+]]>
+          </description>
+      </offer>
+      <offer id="301006292881">
+          <name>Стиральный порошок Denkmit 1,35 кг для белых вещей</name>
+          <url>http://tamay.com.ua/tproduct/155009634-301006292881-stiralnii-poroshok-denkmit-135-kg-dlya-b</url>
+          <price>120.00</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>607906336673</categoryId>
+          <picture>https://static.tildacdn.com/tild3862-3461-4265-b662-623534346566/__Denkmit_135____.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Стиральный порошок Denkmit для белого и сильно загрязненного белья. <br /><br /> <ul> <li> В состав входит моющее средство с высоко концентрированной формулой, что позволяет использовать экономно. <br /><br /> </li> <li> Формула "Анти-пятна" - отстирывает даже при низких температурах белое и сильно загрязненное белье. <br /><br /> </li> <li> Подходит как для ручной, так и для машинной стрирки. <br /><br /> </li> <li> Температурный режим от 20 до 95 градусов <br /><br /> </li> <li> Бесфосфатный <br /><br /> </li></ul>
+]]>
+          </description>
+      </offer>
+      <offer id="585811815463">
+          <name>Гель для стирки Denkmit мембранных вещей и спортивной одежды Fresh Sensation 1,5 л</name>
+          <url>http://tamay.com.ua/tproduct/155009634-585811815463-gel-dlya-stirki-denkmit-membrannih-vesch</url>
+          <price>118.00</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>607906336673</categoryId>
+          <picture>https://static.tildacdn.com/tild3837-6164-4061-b030-646364613732/Fresh_Sensation_15.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Гель для стирки мембранных вещей и спортивной одежды Denkmit Fresh Sensation <br /><br /> <ul> <li> Для синтетики и спортивного текстиля. </li> <li> Бережно отстирывает изделия из вискозы, эластана, полиэстера, стрейча. </li> <li> Сохраняет структуру микро мембранных волокон. </li> <li> Устраняет неприятный запах из спортивной одежды. </li></ul>
+]]>
+          </description>
+      </offer>
+      <offer id="677024448784">
+          <name>Средство для окон Denkmit Glasreiniger</name>
+          <url>http://tamay.com.ua/tproduct/155888766-677024448784-sredstvo-dlya-okon-denkmit-glasreiniger</url>
+          <model>1234512345123</model>
+          <price>49.00</price>
+          <currencyId>UAH</currencyId>
+          <categoryId>607906336673</categoryId>
+          <picture>https://static.tildacdn.com/tild3262-3066-4466-a663-623066656530/Denkmit_Glasreiniger.png</picture>
+          <store>false</store>
+          <pickup>false</pickup>
+          <description>
+<![CDATA[
+Средство для чистки стекол Denkmit Glasreiniger 1 литр. <br /><br /> Средство для чистки стекол, зеркальных поверхностей. Очищает окна, зеркала, стеклянные столы, стекла авто и пластиковые поверхности от грязи, никотина, отпечатков пальцев и обеспечивает блеск без разводов. <br /><br /> Для мытья окрашенных поверхностей средство наносится на влажную ткань. <br /><br />
+]]>
+          </description>
+      </offer>
+  </offers>
+  </shop></yml_catalog>
